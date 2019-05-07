@@ -1,0 +1,13 @@
+.container-t-b-mg{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.output-display{
+    height: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 1%;
+}
+.txt-alert{
+    color:red;
+}
